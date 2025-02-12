@@ -5,7 +5,7 @@ const sectors = [
   { color: "#FF5A10", text: "#333333", label: "" },
   { color: "#FFBC03", text: "#333333", label: "TRY AGAIN" },
   { color: "#FF5A10", text: "#333333", label: "You lose" },
-  { color: "#FFBC03", text: "#333333", label: "BON BONN CHOCOLATES" },
+  { color: "#FFBC03", text: "#333333", label: "CHOCOLATES" },
   { color: "#FF5A10", text: "#333333", label: "LAYS CHIPS" },
 ];
 
