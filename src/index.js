@@ -1,12 +1,12 @@
 const sectors = [
   { color: "#FFBC03", text: "#333333", label: "5 STAR" },
   { color: "#FF5A10", text: "#333333", label: "LOSS" },
-  { color: "#FFBC03", text: "#333333", label: "SLIVER COIN" },
+  { color: "#FFBC03", text: "#333333", label: "SILVER COIN" },
   { color: "#FF5A10", text: "#333333", label: "FREE GAMES" },
-  { color: "#FFBC03", text: "#333333", label: "TRY AGAIN" },
+  { color: "#FFBC03", text: "#333333", label: "BETTER LUCK NEXT TIME" },
   { color: "#FF5A10", text: "#333333", label: "YOU LOOSE" },
   { color: "#FFBC03", text: "#333333", label: "CHOCOLATES" },
-  { color: "#FF5A10", text: "#333333", label: "LAYS CHIPS" },
+  { color: "#FF5A10", text: "#333333", label: "TRY AGAIN" },
 ];
 
 const events = {
